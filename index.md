@@ -5,3 +5,4 @@ This project lists mountains in various areas
 
 * Cumbria
 * Snowdonia
+* Scotland
