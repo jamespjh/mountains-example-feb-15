@@ -1,6 +1,4 @@
 Mountains in Cumbria
 ====================
 
-* Scafell Pike
-* Helvellyn
-* Blencathra
+I hate mountains
