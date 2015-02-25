@@ -1,4 +1,4 @@
 Mountains in Cumbria
 ====================
 
-I hate mountains
+I like mountains
