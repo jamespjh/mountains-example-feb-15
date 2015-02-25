@@ -1,6 +1,7 @@
 A discussion about Mountains
 ============================
 
-These are mountains:
+This project lists mountains in various areas
 
-* Scafell Pike
+* Cumbria
+* Snowdonia
